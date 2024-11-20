@@ -1,7 +1,7 @@
 # Orbital Simulation and Visualization Toolkit
 
 ## Introduction
-C++ toolkit for simulating celestial dynamics using Runge-Kutta 4th Order (RK4) integration. Models single/multi-body gravitational interactions and visualizes planetary motion.
+C++ toolkit for simulating celestial dynamics using Runge-Kutta 4th Order (RK4) integration. Models single/multi-body gravitational interactions and visualizes planetary motion. The paper "A Computational Study of the Gravitational Dynamics in a Multi-planetary System" provides the mathematical background, methodology and sample results from applying these simulation tools.
 
 ## Core Components
 1. RK4 Numerical Integration
